@@ -5,7 +5,7 @@ ROTDL is not only capable of tracking the underlying Tucker dictionary of multid
 robust to sparse outliers. The proposed algorithm is specifically designed by using the alternating direction method of multipliers,
 block-coordinate descent, and recursive least-squares filtering techniques. 
 
-![Capture](https://user-images.githubusercontent.com/26319211/189214323-f161c908-a8a4-472c-85b8-5b1415e9f2c7.PNG)
+![Capture](https://user-images.githubusercontent.com/26319211/189215479-bfdf8c3b-3dad-455d-a818-e915f3831189.PNG)
 
 
 
@@ -16,9 +16,9 @@ block-coordinate descent, and recursive least-squares filtering techniques.
 
 ## State-of-the-art algorithms for comparison
 
-+ STA and DTA: J. Sun, D. Tao, S. Papadimitriou, P. S. Yu, and C. Faloutsos, “[*Incremental
++ **STA** and **DTA**: J. Sun, D. Tao, S. Papadimitriou, P. S. Yu, and C. Faloutsos, “[*Incremental
 tensor analysis: Theory and applications*](https://dl.acm.org/doi/10.1145/1409620.1409621),” ACM Trans. Knowl. Discov. Data, vol. 2, no. 3, pp. 1–37, 2008.
-+ ATD: L.T. Thanh et al. "[*Tracking Online Low-Rank Approximations of Higher-Order Incomplete Streaming Tensors*](https://www.techrxiv.org/articles/preprint/Tracking_Online_Low-Rank_Approximations_of_Higher-Order_Incomplete_Streaming_Tensors/19704034)". TechRxiv, 2022.
++ **ATD**: L.T. Thanh et al. "[*Tracking Online Low-Rank Approximations of Higher-Order Incomplete Streaming Tensors*](https://www.techrxiv.org/articles/preprint/Tracking_Online_Low-Rank_Approximations_of_Higher-Order_Incomplete_Streaming_Tensors/19704034)". TechRxiv, 2022.
 
 
 ## Some Results
@@ -31,7 +31,9 @@ tensor analysis: Theory and applications*](https://dl.acm.org/doi/10.1145/140962
 
 ![time-varying](https://user-images.githubusercontent.com/26319211/189215180-9ac4f82a-c375-4afb-a92e-fe424f14a1f3.PNG)
 
+
 + Effect of outliers
+
 ![outlier](https://user-images.githubusercontent.com/26319211/189215193-5e04a659-6090-47f8-9b1c-f99ae5c46002.PNG)
 
 + Comparsion
