@@ -25,14 +25,14 @@ tensor analysis: Theory and applications*](https://dl.acm.org/doi/10.1145/140962
 
 + Effect of the noise level
 
-![noise](https://user-images.githubusercontent.com/26319211/189214629-29ee0639-2e73-4ec3-90cb-282626ae0357.PNG)
+![noise](https://user-images.githubusercontent.com/26319211/189215151-6aa1d295-ff49-44c2-ad1b-3d9acf6f0b3a.PNG)
 
 + Effect of the time-varying factor
 
-![time-varying](https://user-images.githubusercontent.com/26319211/189214668-9149514c-65aa-4f7f-abc2-7f425890e470.PNG)
+![time-varying](https://user-images.githubusercontent.com/26319211/189215180-9ac4f82a-c375-4afb-a92e-fe424f14a1f3.PNG)
 
 + Effect of outliers
-![outlier](https://user-images.githubusercontent.com/26319211/189214695-4362ee69-4d6f-47e0-88b8-da2b18b67c8f.PNG)
+![outlier](https://user-images.githubusercontent.com/26319211/189215193-5e04a659-6090-47f8-9b1c-f99ae5c46002.PNG)
 
 + Comparsion
 
