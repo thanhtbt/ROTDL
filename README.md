@@ -41,7 +41,7 @@ tensor analysis: Theory and applications*](https://dl.acm.org/doi/10.1145/140962
 ![compare](https://user-images.githubusercontent.com/26319211/189214710-ad640fd5-0510-4c97-9e0f-452a29f17843.PNG)
 
 
-## References
+## Reference
 
 This code is free and open source for research purposes. If you use this code, please acknowledge the following paper.
 
