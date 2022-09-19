@@ -45,7 +45,7 @@ tensor analysis: Theory and applications*](https://dl.acm.org/doi/10.1145/140962
 
 This code is free and open source for research purposes. If you use this code, please acknowledge the following paper.
 
-[1] **L.T. Thanh**, T.T. Duy, K. Abed-Meraim, N. L. Trung and A. Hafiane. “[*Robust Online Tucker Dictionary Learning from Multidimensional Data Streams*](https://)”. **In Proc. 14th APSIPA-ASC**, 2022. 
+[1] **L.T. Thanh**, T.T. Duy, K. Abed-Meraim, N. L. Trung and A. Hafiane. “[*Robust Online Tucker Dictionary Learning from Multidimensional Data Streams*](https://)”. **In Proc. 14th APSIPA-ASC**, 2022. [[PDF]](https://drive.google.com/file/d/1A4r3AEOqje6YDKNDX_pZBzJtN_j7Hqmw/view?usp=sharing).
 
 
 
